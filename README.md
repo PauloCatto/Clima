@@ -1,7 +1,7 @@
 # Clima
 
 Este é um projeto desenvolvido durante aula do professor Bonieky na plataforma B7 Web, onde a principal ideia é consumir uma API cujo o objetivo é apresentar como solicitado pelo usuario o clima tempo de qualquer lugar do mundo.
-O projeto foi desenvolvido com Html5 Css3 e Java Script.
+O projeto foi desenvolvido com Html5 Css3 e JavaScript.
 
 Link para teste: https://paulocatto.github.io/Clima/
 
